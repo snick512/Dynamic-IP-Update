@@ -34,7 +34,8 @@ SyslogIdentifier=update-ufw
 KillSignal=SIGTERM
 
 [Install]
-WantedBy=multi-user.target```
+WantedBy=multi-user.target
+```
 
 ```bash
 sudo systemctl daemon-reload
