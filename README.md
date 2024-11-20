@@ -58,3 +58,8 @@ Logging/Debugging:
 ```bash
 sudo journalctl -u update-ufw.service
 ```
+
+# Why?
+Sometimes old fashion programs/scripts are the best. Some things have become so bloated they are useless, and become unfit for practical use when you're looking for simplicity. 
+
+Stay up to date on full blurbs at [my blog](https://isnick.net). 
