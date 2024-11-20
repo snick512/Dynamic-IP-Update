@@ -57,7 +57,7 @@ sudo systemctl status ip-update-ufw.service
 
 Logging/Debugging:
 ```bash
-sudo journalctl -u update-ufw.service
+sudo journalctl -u ip-update-ufw.service
 ```
 
 # Why?
