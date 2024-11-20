@@ -47,6 +47,7 @@ sudo systemctl enable ip-update-ufw.service
 Start:
 ```bash
 sudo systemctl start ip-update-ufw.service
+```
 
 Status:
 ```bash
